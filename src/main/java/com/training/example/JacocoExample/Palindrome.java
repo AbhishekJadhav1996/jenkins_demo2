@@ -24,3 +24,4 @@ public class Palindrome {
 //commit 2 added//
 //poll scm commit//
 //new line added
+//new commit aded
